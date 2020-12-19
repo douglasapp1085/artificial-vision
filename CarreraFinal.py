@@ -65,7 +65,7 @@ while op !=4:
         proceso()
     elif op == 4:
         print(":::::::::::::::::::::::::::::::Gracias por jugar:::::::::::::::::::::::::::::")
-        print("::::::::::::::::::::::::::Realizado por: Stiven Gómez::::::::::::::::::::::::")
+        print("::::::::::::::::::::::::::Realizado por: douglas paredes::::::::::::::::::::::::")
         exit  
     else:
         print(":::::::::::::::::::::::::::::::EL NUMERO QUE INGRESO ES INVALIDO:::::::::::::::::::::::::::::")
